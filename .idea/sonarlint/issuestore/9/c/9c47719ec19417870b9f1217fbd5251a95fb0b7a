@@ -1,0 +1,5 @@
+
+T	java:S106"9Replace this use of System.out or System.err by a logger.(‚š‰18¸á™º1
+g
+java:S1128"JRemove this unused import 'com.learnings.java8.annptations.TestInterface'.(éü¢À8àÈœº1
+r	java:S114"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(£¿ëüùÿÿÿÿ8»á™º1
